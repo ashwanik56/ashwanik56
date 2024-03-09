@@ -3,7 +3,7 @@
 - 👀 I’m interested in DevOps practices, cloud technologies, and full-stack web development.
 - 🌱 I’m currently learning Kubernetes for container orchestration and React for front-end development.
 - 💞️ I’m looking to collaborate on projects related to automation, CI/CD pipelines, and building scalable web applications.
-- 📫 How to reach me: You can reach me via email at [k.ashwani0312@gmail.com](mailto:k.ashwani0312@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashwani-kumar-16b841201/).
+- 📫 How to reach me: You can reach me via email at [k.ashwani0312@gmail.com](mailto:k.ashwani0312@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashwani-kumar-16b841201/) or +917056950800.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new hiking trails in my free time!
 
