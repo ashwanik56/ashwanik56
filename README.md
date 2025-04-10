@@ -32,9 +32,18 @@
 
 Here are a few projects I've been working on recently:
 
-- [Project 1](link-to-project-1): Brief description
-- [Project 2](link-to-project-2): Brief description
-- [Project 3](link-to-project-3): Brief description
+PERSONAL PROJECTS
+Continuous Integration/Delivery (CI/CD)
+  Build a CI/CD pipeline for a simple web application based on tools like Jenkins, GitLab CI, or GitHub Action to automate the build, test, and deployment processes.
+Containerization
+  Dockerize an application and orchestrate containers using Docker Compose or Kubernetes. Demonstrate the ability to create reproducible and portable environments.
+Custom Theme
+  Build a custom theme for WordPress based on core PHP.
+Expense Tracker
+  Developed an expense tracker where user can add their income and expenses, categorize transaction, and view a summary of their financial activities.
+Authentication System
+  Build a user authentication system using Firebase or a custom server. Implement features like user registration, login, password rest and protected routes.
+
 
 Feel free to check out my repositories for more!
 
